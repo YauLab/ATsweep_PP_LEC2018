@@ -11,7 +11,7 @@ Data format:
 
 -column 4: tactile sweep depth. Negative numbers indicate downward sweeps
 
--column 5: subject's response. 1 indicates that they perceived an upward tactile sweep, 2 indicatees that they perceived a downward tactile sweep
+-column 5: subject's response. 1 indicates that they perceived an upward tactile sweep, 2 indicates that they perceived a downward tactile sweep
 
 -column 6: subject's response time (in seconds)
 
